@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "gloom",
+  "base_artist": "swetty",
+  "createdAt": "2026-03-27T10:24:13.725748Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Doom & Gloom",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/01_Doom_&_Gloom_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Doom & Gloom",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/02_Doom_&_Gloom_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "June Gloom",
+      "artist": "Low Leaf",
+      "has_synced": false,
+      "path": "select/03_June_Gloom_Low_Leaf.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "7 Rooms of Gloom",
+      "artist": "Pat Benatar",
+      "has_synced": true,
+      "path": "select/04_7_Rooms_of_Gloom_Pat_Benatar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Shrine in the Gloom",
+      "artist": "Death SS",
+      "has_synced": false,
+      "path": "select/05_The_Shrine_in_the_Gloom_Death_SS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Super-Doom-Hex-Gloom, Pt. 1",
+      "artist": "Rob Zombie",
+      "has_synced": false,
+      "path": "select/06_Super-Doom-Hex-Gloom,_Pt._1_Rob_Zombie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "7 Rooms Of Gloom",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/07_7_Rooms_Of_Gloom_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Little Bag of Gloom",
+      "artist": "Monster Magnet",
+      "has_synced": true,
+      "path": "select/08_Little_Bag_of_Gloom_Monster_Magnet.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "June Gloom",
+      "artist": "Allie X",
+      "has_synced": true,
+      "path": "select/09_June_Gloom_Allie_X.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Doom and Gloom",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/10_Doom_and_Gloom_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gloom",
+      "artist": "The Devil Wears Prada",
+      "has_synced": false,
+      "path": "select/11_Gloom_The_Devil_Wears_Prada.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gloom And How It Gets That Way",
+      "artist": "Every Time I Die",
+      "has_synced": true,
+      "path": "select/12_Gloom_And_How_It_Gets_That_Way_Every_Time_I_Die.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gloom Boys",
+      "artist": "Waterparks",
+      "has_synced": true,
+      "path": "select/13_Gloom_Boys_Waterparks.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In Gloom",
+      "artist": "Hawthorne Heights",
+      "has_synced": true,
+      "path": "select/14_In_Gloom_Hawthorne_Heights.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "January Gloom (Seasons, Pt. 1)",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/15_January_Gloom_(Seasons,_Pt._1)_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cold Gloom",
+      "artist": "The Acacia Strain",
+      "has_synced": true,
+      "path": "select/16_Cold_Gloom_The_Acacia_Strain.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "7-Rooms of Gloom (Single Version / Mono)",
+      "artist": "Four Tops",
+      "has_synced": true,
+      "path": "select/17_7-Rooms_of_Gloom_(Single_Version___Mono)_Four_Tops.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "gloom",
+      "artist": "swetty",
+      "has_synced": false,
+      "path": "select/pl_01_gloom_swetty.txt"
+    }
+  ]
+}
